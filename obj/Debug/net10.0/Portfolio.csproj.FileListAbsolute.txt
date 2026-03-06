@@ -24,7 +24,6 @@ C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\Com
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Skill.razor.rz.scp.css
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\bundle\Portfolio.styles.css
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
-C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\62k8rbmgzy-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\fkmehnfzni-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\6si91vzy89-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\rv86f6bpew-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -72,8 +71,6 @@ C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\qb
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\oe4vlwajxd-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\nm7d4p8mtt-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\9fdkymrxq4-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\dq6x3a8ph8-{0}-h8lchbsylh-h8lchbsylh.gz
-C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\rbv2ka4glg-{0}-h8lchbsylh-h8lchbsylh.gz
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\staticwebassets.development.json
@@ -84,3 +81,9 @@ C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\refint\Portfo
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\Portfolio.pdb
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\Portfolio.genruntimeconfig.cache
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\ref\Portfolio.dll
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\Portfolio.sourcelink.json
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\62k8rbmgzy-{0}-w3ca3h7d3i-w3ca3h7d3i.gz
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Project.razor.rz.scp.css
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\dq6x3a8ph8-{0}-71m2x5xj4n-71m2x5xj4n.gz
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\rbv2ka4glg-{0}-71m2x5xj4n-71m2x5xj4n.gz

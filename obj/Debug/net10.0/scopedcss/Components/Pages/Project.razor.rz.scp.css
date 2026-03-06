@@ -1,0 +1,26 @@
+h3[b-12uqmzxulq] {
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-bottom: 20px;
+}
+
+ul[b-12uqmzxulq] {
+  list-style-type: square;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+li[b-12uqmzxulq] {
+  font-size: 18px;
+  padding: 5px 0;
+  color: white;
+  transition: transform 0.2s;
+}
+
+li:hover[b-12uqmzxulq] {
+  transform: scale(1.05);
+  color: #e251ff;
+  cursor: pointer;
+}
