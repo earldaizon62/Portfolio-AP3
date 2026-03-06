@@ -1,0 +1,15 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   /* vertical center */
+    align-items: center;       /* horizontal center */
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
