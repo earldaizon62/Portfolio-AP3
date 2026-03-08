@@ -8,7 +8,7 @@ h1[b-0f7ji9vfre] {
 
 ul[b-0f7ji9vfre] {
   list-style-type: square;
-  max-width: 200px;
+  max-width: 300px;
   margin: 0 auto;
   padding: 0;
 }
@@ -24,4 +24,8 @@ li:hover[b-0f7ji9vfre] {
   transform: scale(1.05);
   color: #e251ff;
   cursor: pointer;
+}
+
+li p[b-0f7ji9vfre]{
+    display: inline;
 }

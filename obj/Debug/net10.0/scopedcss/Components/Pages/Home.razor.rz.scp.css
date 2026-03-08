@@ -1,9 +1,17 @@
 h1[b-msgvu9ph55]{
     margin-top: 100px;
+    text-align: center;
 }
 
 h1[b-msgvu9ph55], p[b-msgvu9ph55]{
     color: white;
-    text-align: center;
     font-family: Arial, sans-serif;
+}
+
+p a[b-msgvu9ph55]{
+    color: rgb(101, 210, 230);
+}
+
+p a:hover[b-msgvu9ph55]{
+    color: rgb(255, 255, 255);
 }

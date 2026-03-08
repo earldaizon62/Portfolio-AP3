@@ -85,5 +85,6 @@ C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\Portfolio.sou
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\62k8rbmgzy-{0}-w3ca3h7d3i-w3ca3h7d3i.gz
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Project.razor.rz.scp.css
 C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
-C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\dq6x3a8ph8-{0}-71m2x5xj4n-71m2x5xj4n.gz
-C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\rbv2ka4glg-{0}-71m2x5xj4n-71m2x5xj4n.gz
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\scopedcss\Components\Pages\About.razor.rz.scp.css
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\dq6x3a8ph8-{0}-pa8xrhurdq-pa8xrhurdq.gz
+C:\Users\HF\OneDrive\Desktop\Portfolio\Portfolio\obj\Debug\net10.0\compressed\rbv2ka4glg-{0}-pa8xrhurdq-pa8xrhurdq.gz

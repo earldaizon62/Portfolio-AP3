@@ -8,7 +8,7 @@ h1 {
 
 ul {
   list-style-type: square;
-  max-width: 200px;
+  max-width: 300px;
   margin: 0 auto;
   padding: 0;
 }
@@ -24,4 +24,8 @@ li:hover {
   transform: scale(1.05);
   color: #e251ff;
   cursor: pointer;
+}
+
+li p{
+    display: inline;
 }
