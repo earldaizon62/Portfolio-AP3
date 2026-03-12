@@ -6,6 +6,17 @@ h3[b-12uqmzxulq] {
   margin-bottom: 20px;
 }
 
+p[b-12uqmzxulq]{
+  text-align: center;
+}
+
+p a[b-12uqmzxulq]{
+  color: rgb(101, 210, 230);
+}
+
+p a:hover[b-12uqmzxulq]{
+  color: rgb(255, 255, 255);
+}
 ul[b-12uqmzxulq] {
   list-style-type: square;
   max-width: 300px;

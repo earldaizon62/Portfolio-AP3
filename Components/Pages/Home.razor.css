@@ -7,11 +7,3 @@ h1, p{
     color: white;
     font-family: Arial, sans-serif;
 }
-
-p a{
-    color: rgb(101, 210, 230);
-}
-
-p a:hover{
-    color: rgb(255, 255, 255);
-}
