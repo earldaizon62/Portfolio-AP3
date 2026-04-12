@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HF\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Portfolio.csproj": {}
+    "C:\\Users\\Darryl\\OneDrive\\Desktop\\EarlJasper\\Portfolio-AP3\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HF\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Portfolio.csproj": {
+    "C:\\Users\\Darryl\\OneDrive\\Desktop\\EarlJasper\\Portfolio-AP3\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HF\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\Darryl\\OneDrive\\Desktop\\EarlJasper\\Portfolio-AP3\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\HF\\OneDrive\\Desktop\\Portfolio\\Portfolio\\Portfolio.csproj",
-        "packagesPath": "C:\\Users\\HF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HF\\OneDrive\\Desktop\\Portfolio\\Portfolio\\obj\\",
+        "projectPath": "C:\\Users\\Darryl\\OneDrive\\Desktop\\EarlJasper\\Portfolio-AP3\\Portfolio.csproj",
+        "packagesPath": "C:\\Users\\Darryl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darryl\\OneDrive\\Desktop\\EarlJasper\\Portfolio-AP3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HF\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Darryl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

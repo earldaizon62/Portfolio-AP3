@@ -1,31 +1,76 @@
-/*This is the style for the Skill page. Gikapoy nako HAHAHA */
-h1[b-0f7ji9vfre] {
-  color: white;
-  text-align: center;
-  font-family: Arial, sans-serif;
-  margin-bottom: 20px;
+/* Professional Card-Style Skills Showcase */
+
+.skills-container[b-0f7ji9vfre] {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
 }
 
-ul[b-0f7ji9vfre] {
-  list-style-type: square;
-  max-width: 300px;
-  margin: 0 auto;
-  padding: 0;
+.skills-container h2[b-0f7ji9vfre] {
+    color: #ffffff;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 300;
+    margin-bottom: 50px;
+    letter-spacing: 1px;
+    font-family: 'Arial', system-ui, sans-serif;
 }
 
-li[b-0f7ji9vfre] {
-  font-size: 18px;
-  padding: 5px 0;
-  color: white;
-  transition: transform 0.2s;
+.skills-grid[b-0f7ji9vfre] {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
 }
 
-li:hover[b-0f7ji9vfre] {
-  transform: scale(1.05);
-  color: #e251ff;
-  cursor: pointer;
+.skill-card[b-0f7ji9vfre] {
+    background: linear-gradient(135deg, #1e1e2e 0%, #2a2a3e 100%);
+    border-radius: 12px;
+    border: 1px solid rgba(101, 210, 230, 0.3);
+    padding: 24px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-li p[b-0f7ji9vfre] {
-  display: inline;
+.skill-card:hover[b-0f7ji9vfre] {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 48px rgba(101, 210, 230, 0.2);
+    border-color: rgba(101, 210, 230, 0.6);
+}
+
+.skill-header[b-0f7ji9vfre] {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #65d2e6;
+    margin-bottom: 16px;
+    font-family: 'Arial', system-ui, sans-serif;
+}
+
+.skill-body[b-0f7ji9vfre] {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.progress-bar[b-0f7ji9vfre] {
+    width: 100%;
+    height: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid rgba(101, 210, 230, 0.2);
+}
+
+.progress-fill[b-0f7ji9vfre] {
+    height: 100%;
+    background: linear-gradient(90deg, #65d2e6 0%, #4fa8d1 100%);
+    border-radius: 5px;
+    transition: width 0.6s ease;
+}
+
+.progress-percentage[b-0f7ji9vfre] {
+    text-align: right;
+    color: #98c1d9;
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-family: 'Arial', system-ui, sans-serif;
 }
